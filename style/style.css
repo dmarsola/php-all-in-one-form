@@ -1,0 +1,22 @@
+/*
+https://coolors.co/app/ff9c00-f6f6f6-00a5e2-333333-2e3c51
+ff9c00 - vivid gamboge
+f6f6f6 - white smoke
+00a5e2 - vivid cerulean
+333333 - Jet black
+2e3c51 - charcoal bluish gray
+bb0a21 - lava red
+04a777 - munsell green
+*/
+
+html { background-color: #333; text-align: center; color: #2e3c51; }
+body { background-color: #f6f6f6; width: 80%; margin: auto; }
+h3 { padding: 1em; text-align: center; }
+form { display: grid; grid-template-columns: 2fr 1fr 2fr; grid-column-gap: 1.5em; grid-row-gap: .5em; text-align: left; }
+label { text-align: right; }
+h2 { padding: 1em; background-color: #ff9c00; }
+.left-align { text-align: left; padding-left: 1em; }
+.error { color: #bb0a21; }
+#submit { width: 10em; padding: .3em; background-color: #04a777; color: #f6f6f6; }
+.diverr { border: 1px dashed #bb0a21; }
+.btn { padding: .5em 2em; background-color: #00a5e2; border-radius: .5em; text-decoration: none; color: inherit; }

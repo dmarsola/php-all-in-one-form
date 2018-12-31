@@ -1,0 +1,4 @@
+Connor~McDavid~cmcdavid@hockeytown.ca~Edmonton~Canada~yes
+Bob~Smith~bs@not.ca~Ottawa~Canada~no
+Frank~Sekely~fsekely@gmail.ca~DC~United States~yes
+
